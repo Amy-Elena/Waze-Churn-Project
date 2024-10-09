@@ -2,7 +2,7 @@
 End-of-course Projects for the Google Advanced Data Analytics Professional Certificate.  
 
 ### Project Overview  
-This repository contains the Waze User Churn Prediction Project, aimed at identifying and predicting user churn within the Waze app. For this project, churn refers to users who either uninstalled the app or stopped using it. The ultimate goal is to develop machine learning models that can predict user churn, providing insights for strategies that improve user retention and overall app growth.  
+The Waze User Churn Prediction Project; aimed at identifying and predicting user churn within the Waze app. For this project, churn refers to users who either uninstalled the app or stopped using it. The ultimate goal is to develop machine learning models that can predict user churn, providing insights for strategies that improve user retention and overall app growth.  
 
 ### Data  
 This project's dataset was created for pedagogical purposes and does not represent Waze’s actual data. The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred.  
@@ -64,7 +64,7 @@ The ensemble models demonstrated more predictive power than logistic regression 
 ### Conclusion  
 The Waze User Churn Project successfully demonstrated key insights about user behavior and app engagement that contribute to churn. However, the machine learning models built during this project indicate that additional data and more advanced feature engineering are necessary to achieve higher recall and predictive accuracy.
 
-The Waze team recommends a second iteration of this project with additional user interaction data to better understand the drivers behind churn and ultimately reduce user attrition.
+The Waze data team recommends a second iteration of this project with additional user interaction data to better understand the drivers behind churn and ultimately reduce user attrition.
 
 
 
